@@ -7,3 +7,6 @@ This is the translated example sketch, have fun trying to understand how to make
 If you find how to make it work seamlessly don't hesitate to update it or add branches.
 
 Remember in fact that this is an esp8266 running a camera that wasn't rated for it.
+Also remember to connect pins correctly (find your cs pin)
+
+For the d1 mini pro board i have, i've used d0 as cs pin (16 in Arduino IDE), and d5 (14) for SCK, d6 (12) for MISO, d7 (13) for MOSI.
