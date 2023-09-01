@@ -1,4 +1,4 @@
-# ESP8266ArducamMega_capturestream
+# ESP8266 ArducamMega capture and stream
 The example sketch by Arducam for the Arducam Mega for esp32 translated for esp8266.
 
 With this example you should be able to capture and directly send to a webserved page an image or video stream (from the esp8266).
